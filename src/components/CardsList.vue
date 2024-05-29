@@ -76,7 +76,7 @@ defineProps<IProps>();
 }
 
 .card__back-type--clubs {
-  background-image: url("assets/clubs-icon.svg");
+  background-image: url("/assets/clubs-icon.svg");
 }
 
 @media (max-width: 480px) {
